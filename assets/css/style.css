@@ -21,6 +21,12 @@ div#sobre{
     font-size: small;
 }
 
+h3{
+    text-align: center;
+    margin: auto;
+    font-size: 0,75cm;
+}
+
 table{
     margin: auto;
 }
