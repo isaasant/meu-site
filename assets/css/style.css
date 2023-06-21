@@ -1,6 +1,7 @@
 body{
     background-color: gray;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
 }
 table, th, td, tr{
     border-style: solid;
@@ -24,7 +25,7 @@ div#sobre{
 h3{
     text-align: center;
     margin: auto;
-    font-size: 0,75cm;
+    font-size: 0.75rem;
 }
 
 table{
