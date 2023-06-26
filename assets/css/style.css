@@ -11,6 +11,12 @@ table, th, td, tr{
     background-color: aquamarine;
 }
 
+.color1 {color: #00061c;}
+.color2 {color: #243057;}
+.color3 {color: #5a5d9f;}
+.color4 {color: #a290f2;}
+.color5 {color: #fec9ff;}
+
 div.tabela{
     text-align: center;
     background-color: coral;
